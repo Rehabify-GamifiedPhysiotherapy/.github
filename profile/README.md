@@ -158,12 +158,15 @@ http://localhost:3000
 ---
 
 # Contributors
+**Shambhvi Sharma**  
+Computer Engineering Student  
+Thapar Institute of Engineering & Technology  
 
 **Yash Aggarwal**  
 Computer Engineering Student  
 Thapar Institute of Engineering & Technology  
 
-Hackathon Project — Gamifying Rehabilitation
+Project — Gamifying Rehabilitation
 
 ---
 
