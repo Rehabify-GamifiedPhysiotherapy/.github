@@ -34,7 +34,7 @@ Examples:
 • Reach & Stretch Game  
 • Reaction Speed Training  
 
-![Exercise](assets/4.png)
+![Exercise](../assets/4.png)
 
 ---
 
@@ -48,7 +48,7 @@ Features:
 • Exercise posture tracking  
 • Movement accuracy scoring  
 
-![Pose Detection](assets/1.png)
+![Pose Detection](../assets/1.png)
 
 ---
 
@@ -112,14 +112,14 @@ APIs
 
 ## Home Screen
 
-![Home](assets/5.png)
+![Home](../assets/5.png)
 
 ---
 
 ## Exercise Gameplay
 
-![Gameplay](assets/3.png)
-![Gameplay](assets/2.png)
+![Gameplay](../assets/3.png)
+![Gameplay](../assets/2.png)
 
 ---
 
